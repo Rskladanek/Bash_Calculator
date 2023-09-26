@@ -23,13 +23,13 @@ Usage
 
     bash
 
-chmod +x script_name.sh
+chmod +x Calculator.sh
 
 Run the script:
 
 bash
 
-    ./script_name.sh
+    ./Calculator.sh
 
     Follow the on-screen prompts:
         First, choose the operation you wish to perform.
